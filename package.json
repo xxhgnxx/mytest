@@ -1,0 +1,17 @@
+{
+  "name": "mytest",
+  "version": "1.0.0",
+  "description": "练习用",
+  "author": "hgn",
+  "dependencies": {
+    "express": "^4.14.0",
+    "node": "0.0.0",
+    "socket.io": "^1.5.1",
+    "socket.io-client": "^1.6.0",
+    "typescript": "^2.0.9",
+    "typings": "^2.0.0"
+  },
+  "scripts": {
+    "start": "node ./built/server.js"
+  }
+}

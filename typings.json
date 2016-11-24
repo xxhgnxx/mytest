@@ -1,0 +1,11 @@
+{
+  "globalDependencies": {
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20161012061536",
+    "node": "registry:dt/node#6.0.0+20161110151007",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160909205835",
+    "socket.io-client": "registry:dt/socket.io-client#1.4.4+20160317120654"
+  },
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160925001530"
+  }
+}
